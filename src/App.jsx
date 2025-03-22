@@ -4,7 +4,7 @@ import {
   Route
 } from "react-router-dom";
 import LendingPage from "./components/LendingPage";
-import AboutUs from "./components/Aboutus";
+import AboutUs from './components/AboutUs';
 import ServicePage from "./components/ServicePage";
 function App() {
 
